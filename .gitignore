@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if you use it for preprocessing)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Power BI
+*.pbix~
+*.tmp
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Virtual environments (if any)
+.env/
+.venv/
+env/
+venv/
+
+# Node (if you add frontend later)
+node_modules/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw/large CSVs – optional)
+*.csv
+*.xlsx
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# System
+*.swp
