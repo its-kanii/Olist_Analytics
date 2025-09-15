@@ -49,7 +49,11 @@ Visuals included:
 - ⏱ SLA Breach Rate (Card)  
 
 ---
+## 📸 Dashboard Preview
 
+![Olist Dashboard](dashboard.png)
+
+---
 ## 6. Insights  
 - **Revenue Growth:** Sales steadily increased, led by electronics and furniture categories.  
 - **Reviews:** Avg. review ~4.0 → customers are mostly satisfied, but late deliveries reduce scores.  
