@@ -4,12 +4,12 @@
 This project analyzes the **Olist e-commerce dataset** (Brazil), focusing on how **delivery delays and product mix affect review scores, repeat purchases, and revenue**.  
 
 **Key KPIs:**  
-- 💰 Revenue  
-- 📦 Orders & Delivered Orders  
-- ⭐ Average Review Score  
-- 🔁 90-Day Repeat Rate  
-- ⏱ SLA Breach Rate (late deliveries)  
-- ❌ Returns & Cancellations  
+- Revenue  
+- Orders & Delivered Orders  
+- Average Review Score  
+- 90-Day Repeat Rate  
+- SLA Breach Rate (late deliveries)  
+- Returns & Cancellations  
 
 ---
 
@@ -41,12 +41,12 @@ This project analyzes the **Olist e-commerce dataset** (Brazil), focusing on how
 
 ## 5. Dashboard (Power BI)  
 Visuals included:  
-- 📈 Revenue by Month (Line Chart)  
-- 🛒 Revenue by Product Category (Bar Chart)  
-- ⭐ Average Review Score (Card)  
-- 📦 Total Orders & Delivered Orders (Cards)  
-- ❌ Cancellations/Unavailable Orders (Card)  
-- ⏱ SLA Breach Rate (Card)  
+- Revenue by Month (Line Chart)  
+- Revenue by Product Category (Bar Chart)  
+- Average Review Score (Card)  
+- Total Orders & Delivered Orders (Cards)  
+- Cancellations/Unavailable Orders (Card)  
+- SLA Breach Rate (Card)  
 
 ---
 ## 📸 Dashboard Preview
